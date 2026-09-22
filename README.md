@@ -1,5 +1,9 @@
 # LED departure board
 
+This repo has been superseded by https://github.com/davwheat/raildotmatrix.co.uk.
+
+----
+
 UK railway departure boards for a 256x64 HUB75 LED matrix (two chained 128x64 panels) driven by a Raspberry
 Pi. It ports the Daktronics Data Display and Infotec boards from
 [raildotmatrix.co.uk](https://github.com/davwheat/raildotmatrix.co.uk), fed by the Darwin Browser live
